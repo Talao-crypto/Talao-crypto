@@ -5,19 +5,19 @@ Sou estudante de Engenharia da Computação pela PUC Campinas e um entusiasta de
 ## Tecnologias que utilizo
 
 ### JavaScript
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30"/>
 
 ### HTML
-![HTML](https://upload.wikimedia.org/wikipedia/commons/9/92/HTML5_logo_and_wordmark.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/HTML5_logo_and_wordmark.svg" alt="HTML" width="30"/>
 
 ### CSS
-![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="30"/>
 
 ### C
-![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="30"/>
 
 ### Assembly
-![Assembly](https://upload.wikimedia.org/wikipedia/commons/5/5a/Assembly_language_logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Assembly_language_logo.png" alt="Assembly" width="30"/>
 
 ## Sobre mim
 
@@ -28,4 +28,3 @@ Minha paixão por tecnologia me motiva a explorar diferentes linguagens de progr
 Você pode me encontrar nas seguintes plataformas:
 
 - [GitHub](https://github.com/seu-usuario)
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
