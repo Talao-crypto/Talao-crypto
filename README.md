@@ -1,7 +1,7 @@
 
 # 👨‍💻 Sobre Mim
 
-Olá! Eu sou **Tales Martins de Moraes**, estudante de **Engenharia da Computação** na **PUC Campinas**. Sou apaixonado por tecnologia e constantemente estou em busca de novos aprendizados e tecnologias inovadoras. Gosto de enfrentar desafios que me ajudam a expandir minhas habilidades.
+Olá! Eu sou **Tales Martins de Moraes**, estudante de **Engenharia da Computação** . Sou apaixonado por tecnologia e constantemente estou em busca de novos aprendizados e tecnologias inovadoras. Gosto de enfrentar desafios que me ajudam a expandir minhas habilidades.
 
 ### 🚀 Tecnologias que domino:
 
@@ -13,4 +13,3 @@ Olá! Eu sou **Tales Martins de Moraes**, estudante de **Engenharia da Computaç
 
 ### 🌱 Sempre buscando aprender mais e me aprimorar, pronto para colaborar em projetos desafiadores e inovadores!
 
-Sinta-se à vontade para me chamar para trocar uma ideia ou trabalhar em algum projeto interessante!
